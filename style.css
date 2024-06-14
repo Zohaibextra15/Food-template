@@ -1,0 +1,18 @@
+.row .card{
+   margin-left: 70px;
+   height: 300px;
+}
+.g-3{
+    margin-left: 900px;
+    
+}
+.g-3 input{
+    margin-bottom: 5px;
+}
+@media screen and (max-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left: 216px;}
+    .row .card{
+        margin-left: 0 ;
+    }
+  }
